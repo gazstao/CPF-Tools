@@ -15,7 +15,7 @@ Este script gera CPFs válidos com base nos seis dígitos centrais fornecidos pe
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu_usuario/cpf-tools.git
+   git clone https://github.com/fernandobortolli/cpf-tools.git
    ```
 
 2. Navegue até o diretório:
